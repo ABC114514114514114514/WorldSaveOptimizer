@@ -1,0 +1,16 @@
+# 世界保存优化器配置文件
+
+# 自动保存间隔(单位:分钟)
+save-interval-minutes: 5
+
+# 保存时发送的消息(支持颜色代码)
+save-message: "&a 世界已自动保存 "
+
+# 是否禁用默认自动保存
+disable-default-autosave: true
+
+# 是否在控制台记录保存操作
+log-saves: true
+
+# 当插件停止时是否保存世界
+save-on-stop: true
